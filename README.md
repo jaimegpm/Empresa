@@ -1,6 +1,6 @@
 # Empresa
 
-## Alex --> Servicios
-## Jaime --> Contacto
-## Iker --> Empresa
-## Miguel --> Productos
+### Alex --> Servicios
+### Jaime --> Contacto
+### Iker --> Empresa
+### Miguel --> Productos
